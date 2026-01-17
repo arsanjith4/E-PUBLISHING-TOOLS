@@ -1,0 +1,44 @@
+                		LAB EXERCISES
+
+EX.NO:01
+
+	  		  BUSINESS CARD WITH A LOGO
+
+AIM:
+
+	To create a business card with a logo using various text styles, Rectangle tool, Ellipse tool, and Text tool in CorelDRAW.
+
+PROCEDURE:
+
+	1.Open CorelDRAW.
+	2.Click File → New.
+	3.Set the page width to 3.5 inches.
+	4.Set the page height to 2 inches.
+	5.Set the resolution to 300 dpi.
+	6.Select CMYK color mode.
+	7.Enter a document name.
+	8.Click OK to create the document.
+	9.Go to Layout → Page Setup → Guidelines.
+	10.Drag guidelines from the rulers to set margins.
+	11.Select the Rectangle Tool.
+	12.Draw a rectangle covering the entire card.
+	13.Apply a background color to the rectangle.
+	14.Select the Ellipse Tool.
+	15.Draw a circle for the logo by holding the Ctrl key.
+	16.Draw a rectangle inside the circle using the Rectangle Tool.
+	17.Select the Text Tool from the toolbox.
+	18.Click and drag to draw a text box at the required position.
+	19.Type the logo name inside the text box.
+	20.Apply suitable font style, font size, and text color.
+	21.Apply colors to the ellipse and rectangle of the logo.
+	22.Select the logo shapes and text using Pick Tool + Shift.
+	23.Group the logo elements.
+	24.Place the logo at the top-left corner of the business card.
+	25.Draw another text box and type the company name and slogan.
+	26.Draw a text box for director name, contact number, and email ID.
+	27.Draw text boxes for business details and address information.
+	28.Save the design using File → Save As in .cdr format.
+
+RESULT:
+
+	Thus, a business card with a logo was successfully created using various text styles, Rectangle tool, Ellipse tool, and Text tool in CorelDRAW.

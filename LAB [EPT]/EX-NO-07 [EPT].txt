@@ -1,0 +1,28 @@
+						LAB EXERCISES
+
+EX.NO:07
+
+					FILTERS AND BLENDING MODES
+
+AIM:
+
+	To create a pencil sketch of an image by applying various filters and blending modes.
+
+PROCEDURE:
+
+	1.Open an image that has some decent edge details.
+	2.Go to Image → Adjustments → Desaturate. This converts the image into grayscale.
+	3.Right-click on the desaturated layer and select Duplicate Layer.
+	4.Go to Image → Adjustments → Invert. This will invert the duplicated layer.
+	5.In the Layers panel, change the blending mode from Normal to Linear Dodge. You should see a perfectly white image.
+	6.Go to Filter → Blur → Gaussian Blur. The Gaussian Blur dialog box appears.
+	7.Adjust the radius slider until you get a pencil sketch effect. Then click OK. Linear Dodge produces a softer result.
+	8.After inverting, change the blending mode from Normal to Color Dodge.
+	9.Then go to Filter → Blur → Gaussian Blur.
+	10.Adjust the slider until you get a pencil sketch effect. Then click OK. Color Dodge produces sharper edges.
+	11.Go to File → Save As and save the pencil sketch in PSD format.
+	12.Close the program.
+
+RESULT:
+
+	Thus, a pencil sketch of the image is successfully created by applying various filters and blending modes.

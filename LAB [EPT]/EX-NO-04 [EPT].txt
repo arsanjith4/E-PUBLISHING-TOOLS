@@ -1,0 +1,99 @@
+				LAB EXERCISES
+
+EX.NO:04
+
+			      INVITATION DESIGN
+
+AIM:
+
+	To design an invitation for the college convocation using text tools, shape tools, images, and tables in the page layout software CorelDraw.
+
+PROCEDURE:
+
+	1.Open CorelDraw and select File → New. The New Document dialog box appears.
+	2.In the dialog box, set the following options:
+
+		o Size: Letter
+		o Orientation: Portrait
+		o Margins: Set margins according to your design needs (for example, 0.5 inches on all sides).
+		o Click OK.
+
+	3.Go to Insert → Shape → Default Shapes and select the Rectangle shape.
+	4.Click and drag on the document to draw a rectangle that covers the entire page.
+	5.Right-click the shape, choose Properties → Colors, and apply the required fill color. Adjust the shade as needed.
+
+Inserting Logo:
+
+	6.Go to Insert → Image Frame.
+	7.Click and drag to create the image frame. Right-click the frame and select Get Image, then locate and insert the logo.
+	8.After placing the logo, right-click the frame and select Adjust Image to Frame. Resize and position it at the top-left corner using the Select Tool.
+
+Using Text Frame Tool:
+
+	9.Select the Text Frame Tool from the toolbar.
+	10.Click and drag to create a text frame at the top-right of the logo.
+	11.Double-click inside the text frame and type the following content:
+
+		MUTHAYAMMAL POLYTECHNIC COLLEGE
+		NAMAKKAL, TAMILNADU, INDIA
+
+	12. Select the text frame using the Select Tool.
+	13. Go to Window → Content Properties. The Text Properties panel appears.
+	14. Select the text to be formatted.
+	15. In the Text Properties panel, adjust the font, size, color, line spacing, and alignment as required.
+	16. Repeat steps 9 to 15 for the following text and place it just below the previously created text:
+
+		40th CONVOCATION CEREMONY
+		INVITATION
+
+Inserting Image:
+
+	17.Follow steps 6 and 7 to insert an image. Resize and position the image at the center of the document, just below the text created in step 16.
+
+Inserting Table:
+
+	18.Go to Insert → Table.
+	19.In the dialog box, specify:
+
+		• Rows: 3
+		• Columns: 2
+		• Then click OK.
+
+	20.Click and drag on the document to create the table frame. Position it below the image and center-align it.
+	21.Double-click inside the table cells and enter the following details:
+
+		DATE – 18/03/25
+		TIME – 10 AM
+		VENUE – ANNAI AUDITORIUM
+
+	22. Right-click the table, go to Content Properties, and adjust the font, size, color, and alignment of the text.
+	23. Go to Properties and adjust the table borders, background color, and spacing as required.
+
+Using Text Frame Tool:
+
+	24.Repeat steps 9 to 15 to insert and format the following text. Place it below the table and center-align it:
+
+		You are cordially invited
+		Please join us
+
+	25. Similarly, insert and format the following text and position it as shown in the output:
+
+		PROGRAM HIGHLIGHTS
+		Guest of Honor: Dr. Mathew, Principal, YYY Engineering College, Nagercoil
+		Keynote Speaker: Dr. Prabhu, HOD, ZZZ Engineering College, Chennai
+		Awards and Honors Presentation
+		Graduation Certificate Distribution
+		Please confirm your attendance by 25/02/25
+		Contact Number: 94425*****
+		Email ID: aaapolytechnic@gmail.com
+		Website: www.aaapolytechnic.com
+
+Save and Export:
+
+	26.Save the CorelDraw document by selecting File → Save As.
+	27.To prepare the invitation for printing, go to File → Export → Save as PDF and choose appropriate print settings (for example, high resolution and CMYK color mode).
+
+RESULT:
+
+	Thus, an invitation for the college convocation is successfully designed using text tools, shape tools, images, and tables in CorelDraw.
+

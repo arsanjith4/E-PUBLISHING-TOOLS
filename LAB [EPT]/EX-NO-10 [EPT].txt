@@ -1,0 +1,29 @@
+					LAB EXERCISES
+
+EX.NO:10
+
+				   STYLISH CALENDAR SHEET
+
+AIM:
+
+	To prepare a stylish calendar sheet by using tables and formatting tools in Canva.
+
+PROCEDURE:
+
+	1.Click Create a Design and choose A4 or Letter size.
+	2.Go to Elements → Rectangle, drag it to cover the design, and apply the desired background color.
+	3.Draw a rectangle at the bottom for the calendar table border.
+	4.Inside the table, create 7 columns and 6 rows (42 cells) by resizing the first rectangle and duplicating it across rows and columns.
+	5.Select all cells and apply border style and color.
+	6.Double-click each cell and enter the dates for December 2025.
+	7.Apply font, size, style, and color to all dates, and color Sundays/holidays in red.
+	8.Add an image: Go to Uploads → Upload files, drag the image to the top, and resize to fit the calendar width.
+	9.Add the calendar title “DECEMBER 2025” below the image using the Text Tool; format text as desired.
+	10.Add your publication name “NV PUBLICATIONS” at the top of the image; apply font, size, and color.
+	11.Review the entire design for alignment, spacing, and visual balance.
+	12.Download the calendar: Click Share → Download, select PDF (print) or PNG/JPG (sharing), and save to your system.
+
+RESULT:
+
+	Thus, a stylish December 2025 calendar sheet is created in Canva with a neatly formatted table, images, and text, ready for printing or digital use.
+

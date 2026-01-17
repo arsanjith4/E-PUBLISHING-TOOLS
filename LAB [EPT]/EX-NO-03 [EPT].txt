@@ -1,0 +1,50 @@
+				  LAB EXERCISES
+
+EX.NO:03
+
+				BLENDING OBJECTS
+
+AIM:
+
+	To transform one object into another object using the Blend Tool in CorelDRAW.
+
+PROCEDURE:
+
+To Blend One Object into Another:
+
+	1.Create two objects and apply colors (for example, a square and a circle). Select the Blend Tool from the toolbox.
+	2.Click on the first object and drag the cursor to the second object.
+	3.Release the mouse button. Intermediate objects connecting the two objects will appear.
+	4.In the property bar, change the number of steps or adjust the spacing between steps in the Blend Objects list box to set the required number of intermediate objects.
+	5.If the size, shape, color, or any other property of the original objects is changed, the intermediate objects will automatically update.
+
+Blending Along a Freehand Path:
+
+	To blend an object along a freehand path, hold down the Alt key and drag from the first object to the second object while drawing a freehand line.
+
+Blending Along a Predefined Path:
+
+	1.Draw a curve to be used as the predefined path.
+	2.Click the Path Properties button on the property bar and select New Path.
+	3.Point to the drawn curve.
+	4.The original objects and intermediate objects will align themselves along the curve.
+	5.To stretch the blend over the entire path, select the blend fitted on the path.
+	6.Click the More Blend Options button on the property bar.
+	7.Enable the Blend Along Full Path check box.
+
+Splitting a Blend:
+
+	1.Select the blend.
+	2.Click the More Blend Options button on the property bar.
+	3.Click the Split button.
+	4.Click on the intermediate object at the point where the blend needs to be split.
+	5.Drag the split portion to a different location to identify it.
+
+To Remove a Blend:
+
+	1.Select the blend.
+	2.Click the Clear Blend button.
+
+RESULT:
+
+	Thus, one object is successfully transformed into another object using the Blend Tool in CorelDRAW.

@@ -1,0 +1,44 @@
+				LAB EXERCISES
+
+EX.NO:05
+
+				SELECTION TOOLS
+
+AIM:
+
+	To create a design using various selection tools by cutting and pasting images in Photoshop.
+
+PROCEDURE:
+
+Images Used:
+
+	i) Sky
+	ii) Star
+	iii) Birds
+	iv) Building
+	v) Clock
+	vi) Horse
+	vii) Kolam
+	viii) Photo Frame
+
+Steps:
+
+	1.Open Photoshop. Open the background image (Sky). Zoom it to the required size using the Zoom Tool.
+	2.Drag the above images onto the Photoshop icon at the bottom of your desktop. OR Open the images one by one using File → Open.
+	3.Right-click on the Photoshop icon and select the Photo Frame file. This opens the photo frame image. To view it simultaneously with the background, choose Window → Arrange → Float in Window. Use the Rectangular Marquee 		Tool to select the frame. To reduce the size of the frame, go to Edit → Free Transform or press Ctrl+T. Resize it and go to Edit → Cut or press Ctrl+X.
+	4.Click on the background image. Go to Edit → Paste or press Ctrl+V. A new layer is formed. Rename the layer with a relevant name. Using the Move Tool, move the frame to the desired location.
+	5.Open the Star image. Use the Polygonal Lasso Tool to select the star. Resize it as required and cut the selected star.
+	6.Click on the background image. Press Ctrl+V to paste the star. Use the Move Tool to place it in the desired location.
+	7.Use the Elliptical Marquee Tool to select the clock from the Clock image and apply the same procedure followed in Steps 3 and 4.
+	8.Use the Lasso Tool to select a bird from the Birds image and apply the same procedure.
+	9.Use the Quick Selection Tool to select the building from the Building image and apply the same procedure followed in Steps 3 and 4.
+	10.Use the Magic Wand Tool to select only the Kolam portion from the Kolam design image and apply the same procedure followed in Steps 3 and 4.
+	11.Use the Magnetic Lasso Tool to select the horse from the Horse image and apply the same procedure followed in Steps 3 and 4. Select the horse layer and choose Edit → Transform → Rotate. A bounding box appears. Move the 		pointer outside the bounding box and drag to rotate it to the desired angle.
+	12.Now a design is created using various selection tools by cutting and pasting images.
+	13.To save the design, go to File → Save As. Save the design in Photoshop format (.PSD).
+
+
+RESULT:
+
+	Thus, a design is successfully created using various selection tools and cutting and pasting images in Photoshop.
+

@@ -1,0 +1,28 @@
+				LAB EXERCISES
+
+EX.NO:06
+
+			 CHANGING BACKGROUND COLOR
+
+AIM:
+
+	To create a passport size photo by removing the background of a photo and changing it to blue color.
+
+PROCEDURE:
+
+	1.Go to File → Open. Select the photo you want to convert into a passport size photo.
+	2.Select the Crop tool from the toolbar.
+	3.In the options bar, set the passport size dimensions: Width: 3.5 cm, Height: 4.5 cm, Resolution: 300 pixels/inch.
+	4.Drag the crop box over the required area of the photo (face and shoulders).
+	5.Press Enter or right-click and select Crop.
+	6.To adjust brightness and contrast, go to Image → Adjustments → Brightness/Contrast, make changes and click OK.
+	7.To adjust levels, go to Image → Adjustments → Levels, fine-tune light and shadows, and click OK.
+	8.Select the Magic Wand Tool to select the background.
+	9.Choose blue color from the color picker and click OK.
+	10.Go to Edit → Fill and select Background Color to fill the background with blue. Click OK.
+	11.Go to File → Save As. Save the image in JPEG format with high-quality settings.
+
+RESULT:
+
+	Thus, a passport size photo is successfully created by removing the background and changing it to blue color.
+

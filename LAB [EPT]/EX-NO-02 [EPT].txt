@@ -1,0 +1,49 @@
+  		     		LAB EXERCISES
+
+EX.NO:02
+
+			   NOTEBOOK WRAPPER DESIGN
+
+AIM:
+
+	To create a notebook wrapper design using fountain fill and pattern fill tools in CorelDRAW.
+
+PROCEDURE:
+
+General:
+
+	1.Open CorelDRAW and click on a blank document.
+	2.Enter a name for the document and click OK.
+	3.The drawing window opens.
+	4.For the notebook wrapper design, set the required width and height in inches in the property bar. (The width and height include the front cover, back cover, and middle binding portion.)
+	5.Select the Rectangle Tool and draw a rectangle on the drawing page. The dimensions of this rectangle should match the width and height of the front cover. Move this rectangle to the extreme right of the drawing page using the Pick Tool.
+	6.Draw another rectangle with the same dimensions and move it to the extreme left of the drawing page using the Pick Tool. This is for the back cover.
+	7.Draw another rectangle with the required dimensions for the middle binding portion. Move this rectangle between the front and back cover rectangles, position it correctly, and fill it with the desired color.
+
+Front Cover Design:
+
+	1.Select the front cover rectangle using the Pick Tool. Choose the Interactive Fill Tool, select Fountain Fill from the property bar, and choose a fountain fill type (for example, Linear). Set the start color and end color, adjust the midpoint slider, and apply transparency if required.
+	2.Select the Text Tool and enter the heading text (for example, “XYZ POLYTECHNIC COLLEGE”). Set the required font, font size, text effects, and transparency using the property bar and the Object Properties docker. Move the text to the top of the front cover and position it correctly using the Pick Tool.
+	3.Import the required image by selecting File → Import. Resize the image to the needed size and place it at the center of the front cover rectangle.
+	4.Select the Rectangle Tool to design a label. Resize it as required and round the corners using the Shape Tool. Move the label to the bottom of the front cover rectangle and position it properly.
+	5.Inside the label, use the Text Tool to type the required details (for example, Name, Roll No, and Class) and position the text correctly.
+	6.Select the 2-Point Line Tool and draw lines beside the text entered.
+	7.Now, the front cover design is completed.
+
+Back Cover Design:
+
+	1.Select the back cover rectangle using the Pick Tool.
+	2.Select the 3-Point Curve Tool, click at the bottom-left corner, drag to the top-right corner, release the mouse button, move the cursor upward to get the required curve, and click. Draw another similar curve below the first one.
+	3.Again, using the 3-Point Curve Tool, click at the bottom-left corner and drag toward the right border. Release the button, move the cursor downward as required, and click to complete the curve.
+	4.Select the Smart Fill Tool and click on the leftmost area. Then select the Interactive Fill Tool, choose Vector Pattern Fill from the property bar, and set the outline, vector pattern, and transparency as desired using the properties docker. Adjust the sliders as required.
+	5.Select the Smart Fill Tool again and click on the area between the top two curves. Apply Bitmap Pattern Fill using the Interactive Fill Tool and adjust the settings as required.
+	6.For the area between the second and third curves, apply Fountain Fill using the same procedure.
+	7.For the area below the third curve, apply Two-Color Pattern Fill.
+	8.Using the Text Tool, type the required text, position it properly, and apply suitable font, font size, text effects, and transparency.
+	9.Now, the back cover design is completed.
+	10.Select View → Full Screen Preview and File → Print Preview. If any changes are needed, modify the design until you are satisfied.
+	11.After completing the design, save the file by selecting File → Save.
+
+RESULT:
+
+	Thus, a notebook wrapper design is successfully created using fountain fill and pattern fill tools in CorelDRAW.

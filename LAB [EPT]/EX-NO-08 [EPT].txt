@@ -1,0 +1,38 @@
+					LAB EXERCISES
+
+EX.NO:08
+
+					LAYER MASKING
+
+AIM:
+
+	To create a design with the use of a layer mask using two images as back-ground and foreground.
+
+PROCEDURE:
+
+	1.Create a new document.
+	2.Open the two images you want to combine (e.g., Sky and Birds).
+	3.Select the first image (Birds), choose the Move Tool, and drag it into the new document. This becomes Layer 1.
+	4.Repeat the process for the second image (Sky). This becomes Layer 2.
+
+ADDING A LAYER MASK:
+
+	5. Select the top image layer (Sky) in the Layers panel.
+	6. Click the Add Layer Mask button. This adds a white layer mask. White reveals the layer, black hides it.
+
+PAINTING ON THE LAYER MASK:
+
+	7. Ensure the layer mask thumbnail has a white border. If not, click the thumbnail to select it.
+	8. Select the Brush Tool and set the desired brush size and hardness.
+	9. Press D to reset foreground/background colors, then X to switch between black (hide) and white (reveal).
+	10. Paint with black over areas to hide (e.g., hide parts of Sky to show Birds).
+	11. If you hide too much, paint with white to reveal hidden areas.
+	12. Zoom in for final adjustments, resizing the brush as needed.
+
+SAVING YOUR WORK:
+
+	13. Save the file in .PSD format to retain layers and layer masks for future editing.
+
+RESULT:
+
+	Thus, a design is created with the use of a layer mask using two images as background and foreground.

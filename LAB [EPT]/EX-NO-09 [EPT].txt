@@ -1,0 +1,64 @@
+				  LAB EXERCISES
+
+EX.NO:09
+
+		DESIGNING A TRI-FOLD BROCHURE FOR COLLEGE WORKSHOP
+
+AIM:
+
+	To design a multipage document like a tri-fold brochure using various elements in CorelDRAW for the college workshop.
+
+PROCEDURE:
+
+1) OPENING COREL DRAW AND SETTING UP THE DOCUMENT:
+
+	1.Open CorelDRAW and create a New Document → Brochure (Landscape).
+	2.Turn on Rulers and Guidelines from the View menu to help with precise placement.
+	3.Add a second page if required: Page 1 for the front side, Page 2 for the back side.
+
+2) PANEL FORMATION (PAGE 1 – FRONT SIDE):
+
+	4. Use the Rectangle Tool from the toolbox to draw a rectangle.
+	5. Resize the rectangle to page height and 1/3 of page width using rulers. Move this rectangle to the left of Page 1. This is Panel 3.
+	6. Duplicate Panel 3 and move the copy to the middle of Page 1. This is Panel 6 (Back cover).
+	7. Duplicate Panel 3 again and move it to the right side of Page 1. This is Panel 1 (Front cover).
+	8. Apply background color, border color, and border style to all panels.
+
+3) PANEL FORMATION (PAGE 2 – BACK SIDE):
+
+	9. Repeat steps 4–8 on Page 2 to create Panel 2 (left), Panel 4 (middle), and Panel 5 (right).
+
+4) DESIGNING PANELS (ADDING CONTENTS):
+
+	Panel 1 (Front cover – Page 1, right)
+	10. Add text using the Text Tool → Click to insert text. Set the font, size, color, effects, and align it properly.
+	11. Insert images or logos using File → Import, locate the file, and place it in Panel 1. Resize and position it as needed.
+	12. To add shapes like rectangles, use the Rectangle Tool, resize, position, and apply fill color, outline color, and outline style.
+	13. To group elements, select them, then go to Arrange → Group.
+	Panel 6 (Page 1, middle)
+	14. Add text and images as required.
+	15. Follow the same procedure as Panel 1 (steps 10–13).
+	Panel 3 (Page 1, left)
+	16. Add text and images as required.
+	17. Follow the same procedure as Panel 1 (steps 10–13).
+	Panel 2 (Page 2, left)
+	18. Add text and images as required.
+	19. Follow the same procedure as Panel 1 (steps 10–13).
+	Panel 4 (Page 2, middle)
+	20. Add text and images as required.
+	21. Follow the same procedure as Panel 1 (steps 10–13).
+	Panel 5 (Page 2, right)
+	22. Add text and images as required.
+	23. Follow the same procedure as Panel 1 (steps 10–13).
+
+5) REVIEW AND EXPORT:
+
+	24. Review the entire brochure layout for errors and make corrections.
+	25. Export the file: File → Export.
+	26. For printing, select PDF; for sharing digitally, select PNG/JPG.
+	27. Save the exported file to your system.
+
+RESULT:
+
+	Thus, a multipage tri-fold brochure is designed in CorelDRAW using various elements, with properly aligned panels, text, and images, suitable for printing or digital sharing.
+
